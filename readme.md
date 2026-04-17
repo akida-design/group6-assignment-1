@@ -1,9 +1,9 @@
 ## Editing a student
-Click the "edit" button to edit student details. Onnce done, click the "update student" button.
+Click the <b>"edit"</b> button to edit student details. Onnce done, click the "update student" button.
 
 ## Adding a student
-After entering new details in the form, click the button "add student".
-NOTE: Cannot add students with a similar ID.
+After entering new details in the form, click the button <b>"add student"</b>.<br>
+<b>NOTE: Cannot add students with a similar ID.</b>
 
 ## Deleting student
-Click the "delete student" button to delete student details
+Click the <b>"delete student"</b> button to delete student details
